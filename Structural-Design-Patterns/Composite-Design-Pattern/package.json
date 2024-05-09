@@ -1,0 +1,20 @@
+{
+  "name": "composite-dp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node out/main.js",
+    "prestart": "npm run build",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "description": ""
+}
